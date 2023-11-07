@@ -6,9 +6,8 @@ This repository houses a collection of my projects completed during my computer 
 
 Here's a list of some of the projects you'll find in this repository:
 
-1. **Project 1:** (Provide a brief description and possibly a link to the project directory)
-2. **Project 2:** (Description and link)
-3. **Project 3:** (Description and link)
+1. **Project 1:** Advanced C++ Final Project - FaceBook APP, OOP/Pollymorphism
+2. **Project 2:** Binary Trees, Bitwise ,Recursion, Algorithmes implementations, riddles solving.
    ...
 
 Each project demonstrates various aspects of software development, including data structures, algorithms, and problem-solving.
